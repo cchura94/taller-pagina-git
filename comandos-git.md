@@ -19,5 +19,5 @@ git remote add origin https://github.com/cchura94/taller-pagina-git.git
 ```
 git add .
 git commit -m "proyecto base"
-git push origin 
+git push origin master
 ```
